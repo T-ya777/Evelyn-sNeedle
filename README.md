@@ -5,15 +5,15 @@
 mediapipe, openCV, cmu graphics
 
 # How to run the app:
-Python 3.x
-cmu_graphics: This is the core library for the drawing interface.
-Image Processing/Video Libraries: The project imports (but may not fully utilize yet) several libraries for advanced functionality, including camera and image capture.
+Python 3.x (need to below 3.14) \
+cmu_graphics: This is the core library for the drawing interface. \
+Image Processing/Video Libraries: The project imports several libraries for advanced functionality, including camera and image capture.
 
     pip install cmu-graphics
     pip install opencv-python mediapipe numpy Pillow
 
 
-Download the main file to start (only main file is needed)
+Download the main file to start (This project is in one single file)
 
 ---
 
